@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="logo.png" alt="Oxum Labs Logo" width="40%" />
-</div>
-<div align="center">
-  <h1>👋 Welcome to Oxum Labs! 🚀</h1>
+ <h1>👋 Welcome to Oxum Labs! 🚀</h1>
 </div>
 
 ---
