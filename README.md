@@ -1,50 +1,33 @@
- <h1>👋 Welcome to Oxum Labs! 🚀</h1>
-</div>
+# Welcome to Oxum Labs!
+
+We are the proud creators of the **Neit** programming language, along with other innovative solutions like **xasm-rs**—a Rust-based compiler backend that simplifies the creation of custom compilers!
+
+### What Drives Us?
+
+“At Oxum Labs, we are passionate about pioneering the future of technology through open innovation and accessible solutions. Our mission is to empower developers worldwide by providing cutting-edge tools like Neit and fostering a community-driven development environment. We are dedicated to making powerful, user-friendly, and freely available resources that enable everyone to achieve their full potential.”
+
+We firmly believe that everyone shall have something of their need without being left behind , either due to financial constraints , lack of knowledge or any other reason , it doesn't matter , we at oxumlab strive to proivde you the best of what you need!
+
+### what have we achieved so far?
+- #### [Neit Programming Language](https://oxumlabs.github.io/nsite) 
+   a modern , fast compiled programming language aimed at making the world of programming extremely easy for anyone and everyone! neit is aimed at being simpler than python while being extremely faster than it!
+- #### [xasm-rs](https://github.com/skubed0006/xasm-rs)
+   a rust based compiler backend for creating custom compilers! it makes creation of compilers extremely easy and simple!
+- #### [CEIT](https://github.com/oxumlabs/ceit)
+   a superset of C programming language that aims at providing safety and flexibility to the developers!
+   >**CEIT is in heavy development and is not yet ready for use!**
+- #### [NulibC](https://github.com/oxumlabs/nulibc)
+   a C standard library for the Neit programming language but can be used independently! it provides a wide range of abstractions and functionalities and aims at being statically compiled library!
+### Future project goals?
+- #### A simple and easy to use IDE for Neit
+- #### A custom operating system!
+---
+### Our Team
+  - #### Joy (Jaytirth Kundan)
+    - Co-founder and lead developer of Oxum Labs
+  - #### Bilal KanjelKheir
+    - Co-founder and lead developer of Oxum Labs
+  - #### Elie Khalil
+    - Backup manager at oxumlabs , just to ensure extra safety of the projects!
 
 ---
-
-At **Oxum Labs**, we are dedicated to innovating and providing solutions that empower the programming community. Our mission is to create high-quality, accessible tools and resources that meet the needs and desires of developers everywhere.
-
----
-
-## About Us
-
-**Oxum Labs** is the proud creator of **Neit**, a cutting-edge programming language designed to push the boundaries of what’s possible in software development. We are committed to making powerful tools free and available to everyone, with a focus on ease of use and community-driven development.
-
-### 🌟 Our Vision
-
-> **“At Oxum Labs, we believe that the future of technology is shaped by open minds and accessible solutions. By creating Neit and focusing on community-driven development, we strive to make powerful tools free, available, and easy to use for everyone.”**
-
----
-
-## What We Do
-
-- **Innovative Solutions:**  
-  Developing the Neit programming language and other projects that drive technological advancement.
-
-- **Community Focused:**  
-  Listening to the needs of the developer community and integrating feedback to improve our tools.
-
-- **Open Access:**  
-  Ensuring that our tools and solutions are freely available and easy to use.
-
----
-
-## Get Involved
-
-We welcome contributions, feedback, and collaboration! If you have suggestions or want to get involved, please reach out to us:
-
-- **Email:** [oxumlabs@proton.me](mailto:oxumlabs@proton.me)
-### BUY US SOME COFFEE!:
-btc address: bc1qvpn43yl4etn9yj26eepg303lhypsechm8h89uc
-
----
-
-Thank you for being a part of our journey to shape the future of programming! 🌍
-
----
-
-> **“Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine**
-
----
-
